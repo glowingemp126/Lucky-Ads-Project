@@ -39,8 +39,7 @@ const IntroSection = () => {
                 xs: "20px",
               },
               
-                // color: "#ceb03e",
-                 backgroundImage: "linear-gradient(to right, #279057,#e2b41b)",
+              color: "#ceb03e",
               fontWeight: "500",
               fontFamily:'Rosarivo',
               lineHeight: 1.5,
